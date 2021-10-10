@@ -46,4 +46,4 @@ call %subtractLT%
 
 REM cd /d C:\TestResults
 
-REM python MergeCSVs.py %timestamp%
+REM python createDashboard.py %timestamp%
