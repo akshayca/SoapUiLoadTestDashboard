@@ -13,7 +13,7 @@ Here is the solution which I came across to overcome this limitations.
 
 ![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htfnc90kb0pya7t9o4en.png)
   
-
+[Link](https://dev.to/akshayca/soapui-load-test-reporting-dashboard-2mn2) to my Blog.
 
 
 
